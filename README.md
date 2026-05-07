@@ -1,76 +1,81 @@
-# Welcome to GitHub
+# 🚕 Taxi Mate (Taxi-Sharing Matching Service)
+> **"함께 타고, 함께 아끼세요"** > 대학생들의 등하교 교통비 부담을 줄이고 편리한 이동을 돕는 택시 동승자 매칭 서비스
 
-캡스톤 팀 생성을 축하합니다.
+---
 
-## 팀소개 및 페이지를 꾸며주세요.
+<br>
 
-- 프로젝트 소개
-  - 프로젝트 설치방법 및 데모, 사용방법, 프리뷰등을 readme.md에 작성.
-  - Api나 사용방법등 내용이 많을경우 wiki에 꾸미고 링크 추가.
+## 프로젝트 소개
+- **서비스명:** Taxi Mate
+- **핵심 가치:** 비용 절감, 이동 편의성, 신뢰 기반 동승
+- **주요 기능**
 
-- 팀페이지 꾸미기
-  - 프로젝트 소개 및 팀원 소개
-  - index.md 예시보고 수정.
+  1️⃣ **1️실시간 핀 생성 및 검색:** 발지, 목적지, 시각에 따라 다른 사용자와 실시간으로 동승 그룹을 만들거나 찾아보세요.
 
-- GitHub Pages 리파지토리 Settings > Options > GitHub Pages 
-  - Source를 marster branch
-  - Theme Chooser에서 태마선택
-  - 수정후 팀페이지 확인하여 점검.
+  2️⃣ **동승자 간 실시간 매칭 및 채팅:** 동승 그룹에 참여하고 채팅을 통해 탑승 위치를 맞추고 안전하게 소통하세요.
 
-**팀페이지 주소** -> https://kookmin-sw.github.io/ '{{자신의 리파지토리 아이디}}'
+  3️⃣ **동승 이용 현황:** 내가 참여 중인 동승 그룹의 출발 시간, 매칭 인원, 정산 상태를 실시간으로 확인하고 관리할 수 있습니다.
 
-**예시)** 2023년 0조  https://kookmin-sw.github.io/capstone-2023-00/
+  4️⃣ **간편한 정산 시스템:** 이용 현황과 채팅을 통해 정산을 요청하고 간편하게 관리할 수 있습니다.
+
+  5️⃣ **사용자 신뢰도:** 매너 온도 및 태그 시스템으로 안전한 이용을 보장합니다.
+ 
+ 
+  
+ 
+ 
+<br><br>
+
+## 소개 영상
+*이미지를 클릭하면 시연 영상으로 이동합니다.(영상 제작 예정)*
+<br><br>
+
+## 팀 소개 (Crescit)
+'자라다', '성장하다'라는 의미를 가진 팀 **Crescit**입니다.
+
+<table style="width:100%;">
+  <tr>
+    <th>이름</th>
+    <th>역할</th>
+    <th>주요 담당 업무</th>
+  </tr>
+  <tr>
+    <td>김태림</td>
+    <td>Project Lead / Backend Engineer</td>
+    <td>프로젝트 총괄 <br> 백엔드 아키텍처 및 핵심 기능 개발</td>
+  </tr>
+  <tr>
+    <td>김서현</td>
+    <td>Backend Engineer</td>
+    <td>API 설계 및 서버 로직 구현</td>
+  </tr>
+  <tr>
+    <td>박소윤</td>
+    <td>Frontend Engineer</td>
+    <td>사용자 인터페이스 및 클라이언트 기능 개발</td>
+  </tr>
+  <tr>
+    <td>한윤구</td>
+    <td>Data & Backend Engineer</td>
+    <td>데이터베이스 설계 및 관리<br>서비스 아이디어 기획 참여</td>
+  </tr>
+</table>
+
+<br><br>
 
 
-## 내용에 아래와 같은 내용들을 추가하세요.
-
-### 1. 프로잭트 소개
-
-프로젝트
-
-### 2. 소개 영상
-
-프로젝트 소개하는 영상을 추가하세요
-
-### 3. 팀 소개
-
-팀을 소개하세요.
-
-팀원정보 및 담당이나 사진 및 SNS를 이용하여 소개하세요.
-
-### 4. 사용법
-
-소스코드제출시 설치법이나 사용법을 작성하세요.
-
-### 5. 기타
-
-추가적인 내용은 자유롭게 작성하세요.
+## 사용법
+배포 예정
+<br><br>
 
 
-## Markdown을 사용하여 내용꾸미기
+## 기술 스택
+<br><br>
 
-Markdown은 작문을 스타일링하기위한 가볍고 사용하기 쉬운 구문입니다. 여기에는 다음을위한 규칙이 포함됩니다.
 
-```markdown
-Syntax highlighted code block
+## 시스템 아키텍쳐
+<br><br>
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-자세한 내용은 [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Support or Contact
-
-readme 파일 생성에 추가적인 도움이 필요하면 [도움말](https://help.github.com/articles/about-readmes/) 이나 [contact support](https://github.com/contact) 을 이용하세요.
+## 소개 자료
+보고서, 발표 피피티 등 삽입 예정
